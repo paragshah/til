@@ -16,7 +16,9 @@ Inspired by https://github.com/jbranchaud/til
 ---
 
 ### Bash
+- [IP address](bash/ip-address.md)
 - [Simple web server](bash/simple-web-server.md)
+- [Sleep log](bash/sleep-log.md)
 
 ### Git
 

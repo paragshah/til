@@ -21,6 +21,7 @@ Inspired by https://github.com/jbranchaud/til
 - [Sleep log](bash/sleep-log.md)
 
 ### Git
+- [Print single line git logs](git/single-line-logs.md)
 
 ### Mac
 

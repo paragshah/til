@@ -16,6 +16,7 @@ Inspired by https://github.com/jbranchaud/til
 ---
 
 ### Bash
+- [Simple web server](bash/simple-web-server.md)
 
 ### Git
 

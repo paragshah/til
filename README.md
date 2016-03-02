@@ -19,6 +19,7 @@ Inspired by https://github.com/jbranchaud/til
 - [IP address](bash/ip-address.md)
 - [Simple web server](bash/simple-web-server.md)
 - [Sleep log](bash/sleep-log.md)
+- [Vim](bash/vim.md)
 
 ### Git
 - [Print single line git logs](git/single-line-logs.md)

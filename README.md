@@ -25,4 +25,4 @@ Inspired by https://github.com/jbranchaud/til
 - [Print single line git logs](git/single-line-logs.md)
 
 ### Mac
-
+- [Hidden settings](mac/hidden-settings.md)
